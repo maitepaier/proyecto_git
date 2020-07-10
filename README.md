@@ -1,4 +1,4 @@
 # proyecto_git
 Proyecto git ejercicio
 <p>Hola! Acabo de llegar al Github.</p>
-<p>Empezando a conocer este nuevo mundo!</p>
+<p>Solamente haciendo pruebas a ver si compreendo como funciona eso!</p>
